@@ -3,7 +3,9 @@
 ## Citation
 This code is for the paper
 _Counterfactual data augmentation for mitigating gender stereotypes in languages with rich morphology_
-featured in ACL 2019. Please cite as:
+featured in ACL 2019.
+The paper can be found [here](https://www.aclweb.org/anthology/P19-1161v2.pdf).
+Please cite as:
 ```bibtex
 @inproceedings{zmigrod-etal-2019-counterfactual,
     title = "Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology",
